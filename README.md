@@ -49,5 +49,5 @@ Raspberry Pi4 を使用し、LEDの点灯消灯を操作する。
               sudo rmmod myled
               
 ## ライセンス
-
+https://github.com/yuma850/robotsystem1/blob/be00a7d848222e42bcfa2d4b9dc4224beb8eda73/LICENSE
  
