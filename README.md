@@ -33,8 +33,19 @@ Raspberry Pi4 を使用し、LEDの点灯消灯を操作する。
      
                   $make
      
- 　　　　インストールする。
-          $sudo insmod myled.ko
+ インストールする。
+            $sudo insmod myled.ko
           
-          だれでも使えるゆようｂする。
-          sudo chmod 666 /dev/myled
+ だれでも使えるゆようｂする。
+            sudo chmod 666 /dev/myled
+          
+ ## LEDの操作方法
+             echo 0 >/dev/myled0
+             echo 1 >/dev/myled0
+             echo 2 >/dev/myled0
+             echo 3 >/dev/myled0
+             echo 4 > /dev/myled0
+             echo 5 >/dev/myled0
+0から5までで、３つのLEDを点灯消灯させる。
+ 
+ 
