@@ -40,19 +40,40 @@
     ＄ sudo chmod 666 /dev/myled                                  //だれでも操作できるようにする。
           
  ### LED(プログラム)の操作方法
+ 
+ #### LED1を消す時
     ＄ echo 0 >/dev/myled0
+    
+ #### LED1をつける時
     ＄ echo 1 >/dev/myled0
+    
+ #### LED2を消す時
     ＄ echo 2 >/dev/myled0
+    
+ #### LED2をつける時
     ＄ echo 3 >/dev/myled0
+    
+  #### LED2を消す時
     ＄ echo 4 > /dev/myled0
+    
+  #### LED1をつける時
     ＄ echo 5 >/dev/myled0
-0から5までで、３つのLEDを点灯消灯させる。
 
 ### アンインストール方法
 
     ＄ sudo rmmod myled
-              
+-----
+
+## 実際に行っている動画
+https://youtu.be/NzFWBAQKTe8
+
+
 ## ライセンス
+GNU General Public License v3.0
+
+詳細は以下のリンクから確認可能
 
 https://github.com/yuma850/robotsystem1/blob/be00a7d848222e42bcfa2d4b9dc4224beb8eda73/LICENSE
+
+-----
  
