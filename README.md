@@ -27,11 +27,11 @@ Raspberry Pi4 を使用し、LEDの点灯消灯を操作する。
 ## インストール方法
 　　　　　　
  リポジトリをクローンする。
-          ＄git clone https://github.com/yuma850/robotsystem1.git
+                ＄git clone https://github.com/yuma850/robotsystem1.git
 
-　　　　　  ＄cd myled
+　　　　　       ＄cd myled
      
-             $make
+                  $make
      
  　　　　インストールする。
           $sudo insmod myled.ko
