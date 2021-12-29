@@ -26,7 +26,7 @@
 
 ## 回路図
 <img src=
-"https://user-images.githubusercontent.com/94208243/147673428-3bb0f4bd-a7d6-48ed-a5f4-8c42696e9faf.jpeg""https://user-images.githubusercontent.com/94208243/147673722-690030fa-71fd-43df-a96b-ee0eba4064e5.jpeg"
+"https://user-images.githubusercontent.com/94208243/147673428-3bb0f4bd-a7d6-48ed-a5f4-8c42696e9faf.jpeg"  "https://user-images.githubusercontent.com/94208243/147673722-690030fa-71fd-43df-a96b-ee0eba4064e5.jpeg"
 width="320px">
 
 -------
