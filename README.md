@@ -71,9 +71,5 @@ https://youtu.be/NzFWBAQKTe8
 ## ライセンス
 GNU General Public License v3.0
 
-詳細は以下のリンクから確認可能
-
-https://github.com/yuma850/robotsystem1/blob/be00a7d848222e42bcfa2d4b9dc4224beb8eda73/LICENSE
-
 -----
  
