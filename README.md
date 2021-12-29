@@ -24,6 +24,13 @@
 
 -------
 
+## 回路図
+<img src=
+![IMG_0409](https://user-images.githubusercontent.com/94208243/147673428-3bb0f4bd-a7d6-48ed-a5f4-8c42696e9faf.jpeg)
+width="320px">
+
+-------
+
 ## 実際に実験を行うために必要なプログラムの準備
 -------
 ### インストール方法
